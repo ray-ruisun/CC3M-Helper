@@ -56,7 +56,7 @@ vi untar.sh
 ```
 type in,
 ``` shell
-for file in *.tar.gz; do
+for file in *.tar; do
 	tar -xzvf "$file" 
 done
 ```
