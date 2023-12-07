@@ -57,7 +57,7 @@ vi untar.sh
 type in,
 ``` shell
 for file in *.tar; do
-	tar -xzvf "$file" 
+	tar -xvf "$file" 
 done
 ```
 give executive permission,
